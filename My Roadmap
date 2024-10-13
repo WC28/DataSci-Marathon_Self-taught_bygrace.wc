@@ -1,1 +1,155 @@
+3-Month Plan for Intensive Data Science Study (50 Hours/Week)
+Overall Breakdown per Week
+•	Learning & Theory: 25 hours
+•	Hands-on Projects: 15 hours
+•	Certification Prep & Exams: 5 hours
+•	TOEIC Prep: 5 hours
+
+Month 1: Foundations & First Projects
+Goals: Master Python, R basics, data science fundamentals, and complete the first stock analysis project.
+Week 1 (Oct 13 - Oct 19)
+•	Learning (25h):
+o	Harvard Data Science: R Basics (10h)
+o	Python for Data Science (edX/Coursera) – Python basics, Pandas, NumPy (10h)
+o	Mathematics for Data Science: Probability, statistics (5h)
+•	Projects (15h):
+o	Set up GitHub, start stock analysis project (stock data collection using yFinance, basic statistics).
+o	Document your progress and upload initial code to GitHub.
+•	Certifications (5h):
+o	Begin CS50 AI & Machine Learning or IBM Data Science Professional Certificate.
+•	TOEIC Prep (5h): Focus on vocab and reading comprehension.
+
+Week 2 (Oct 20 - Oct 26)
+•	Learning (25h):
+o	Continue R Basics (8h).
+o	Python for data analysis (Pandas, data wrangling techniques) (10h).
+o	More statistics & probability (7h).
+•	Projects (15h):
+o	Complete data collection and move into data visualization (stock trends, comparisons).
+o	Focus on creating clean visualizations with ggplot2 (R) or Matplotlib (Python).
+•	Certifications (5h):
+o	Continue with AI/Machine Learning or IBM Data Science.
+•	TOEIC Prep (5h): Practice listening comprehension and timed tests.
+
+Week 3 (Oct 27 - Nov 2)
+•	Learning (25h):
+o	Finish R Basics and move on to Data Science: Visualization (10h).
+o	Advanced Python data manipulation, including handling large datasets (10h).
+o	Mathematics for machine learning: Linear algebra (5h).
+•	Projects (15h):
+o	Refine stock analysis project with insights from the data.
+o	Complete project 1 and upload to GitHub with detailed README.
+•	Certifications (5h):
+o	Continue with certification studies.
+•	TOEIC Prep (5h): Grammar focus and reading comprehension.
+
+Week 4 (Nov 3 - Nov 9)
+•	Learning (25h):
+o	Start Data Science: Probability (Harvard) (10h).
+o	Python: Master NumPy, data structures, and work on optimization algorithms (10h).
+o	Introduction to basic machine learning concepts: linear regression, logistic regression (5h).
+•	Projects (15h):
+o	Start project 2: Stock price prediction using basic regression analysis.
+o	Document your process and begin GitHub repo for this project.
+•	Certifications (5h):
+o	Continue with AI/ML or IBM Data Science.
+•	TOEIC Prep (5h): Listening and vocabulary expansion.
+
+
+Month 2: Intermediate Machine Learning & AI
+Goals: Master machine learning algorithms, stock prediction models, and explore time-series analysis.
+Week 1 (Nov 10 - Nov 16)
+•	Learning (25h):
+o	Continue with Probability (8h).
+o	Machine learning: Dive into linear/logistic regression, decision trees, random forests (10h).
+o	Time-series analysis: ARIMA models for stock price prediction (7h).
+•	Projects (15h):
+o	Continue stock price prediction project, integrating linear regression.
+o	Build simple visualizations showing predicted vs. actual prices.
+•	Certifications (5h):
+o	Continue AI/ML certification.
+•	TOEIC Prep (5h): Grammar and reading comprehension.
+
+Week 2 (Nov 17 - Nov 23)
+•	Learning (25h):
+o	Continue Probability and start Inference and Modeling (Harvard) (10h).
+o	ML Algorithms: Focus on random forests and decision trees (10h).
+o	More on time-series analysis (5h).
+•	Projects (15h):
+o	Apply ARIMA models to analyze stock trends and refine the stock prediction model.
+•	Certifications (5h):
+o	Continue certification course.
+•	TOEIC Prep (5h): Timed practice and reading/listening focus.
+
+Week 3 (Nov 24 - Nov 30)
+•	Learning (25h):
+o	Complete Inference and Modeling (10h).
+o	Deepen understanding of machine learning (decision trees, random forests) (10h).
+o	Time-series analysis, moving to advanced techniques (5h).
+•	Projects (15h):
+o	Finalize stock price prediction model.
+o	Document the project and complete visualizations for GitHub.
+•	Certifications (5h):
+o	Continue certification course.
+•	TOEIC Prep (5h): Timed tests and listening practice.
+
+Week 4 (Dec 1 - Dec 7)
+•	Learning (25h):
+o	Start Data Science: Productivity Tools (Harvard) (10h).
+o	Introduction to deep learning concepts: Neural networks, LSTM models (10h).
+o	Basic TensorFlow/Keras (5h).
+•	Projects (15h):
+o	Start LSTM-based stock prediction model using TensorFlow/Keras.
+o	Continue GitHub documentation.
+•	Certifications (5h):
+o	Focus on completing AI/ML certification.
+•	TOEIC Prep (5h): Timed practice and grammar focus.
+
+
+Month 3: Advanced Projects & Professionalization
+Goals: Master deep learning, complete stock trading bot, build portfolio, and start job applications.
+Week 1 (Dec 8 - Dec 14)
+•	Learning (25h):
+o	Continue with deep learning (neural networks, LSTM models) (10h).
+o	Learn about algorithmic trading and AI in finance (10h).
+o	Sentiment analysis with NLP (5h).
+•	Projects (15h):
+o	Continue building the LSTM model for stock prediction.
+o	Begin basic sentiment analysis project (NLP) using market news for stock prediction.
+•	Certifications (5h):
+o	Complete final certification exams or projects.
+•	TOEIC Prep (5h): Listening comprehension and vocabulary.
+
+Week 2 (Dec 15 - Dec 21)
+•	Learning (25h):
+o	Master LSTM and RNN architectures (10h).
+o	Apply deep learning to finance (10h).
+o	Advanced NLP techniques for sentiment analysis (5h).
+•	Projects (15h):
+o	Optimize LSTM stock prediction model.
+o	Continue with sentiment analysis project.
+•	Certifications (5h):
+o	Focus on finishing certification studies.
+•	TOEIC Prep (5h): Timed practice and weak areas review.
+
+Week 3 (Dec 22 - Dec 29)
+•	Learning (25h):
+o	Finalize deep learning and stock trading bot concepts (10h).
+o	Learn advanced AI techniques in finance (10h).
+o	Complete NLP and sentiment analysis (5h).
+•	Projects (15h):
+o	Finalize all projects, polish them for your portfolio.
+o	Complete GitHub documentation and finalize the stock trading bot project.
+•	Certifications (5h):
+o	Ensure all certifications are completed.
+•	TOEIC Prep (5h): Final practice test and review.
+
+Week 4 (Dec 30 - Jan 6)
+•	Learning (25h):
+o	Apply what you've learned to advanced stock prediction and trading models.
+o	Deepen AI and ML finance applications.
+•	Projects (15h):
+o	Complete and finalize portfolio with all projects uploaded and well-documented.
+•	Job Applications (5h):
+o	Start applying for data science, ML, and AI-related positions in fintech and tech companies.
 
