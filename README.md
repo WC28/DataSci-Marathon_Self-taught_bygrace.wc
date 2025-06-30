@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WC28
-- 👀 I’m interested in Data Scientist focusing on finance and stock markets! My determination and passion for AI and data science are key to my success.
+- 👀 I’m interested in Data Scientist focusing on Healthcare and Criminal Justice! My determination and passion for Social Work + data science are key to my success.
 - 🌱 I’m currently learning ... Data Science Fundamentals on Harvard edX and my Goals for first month is Master Python, R basics, data science fundamentals, and complete the first stock analysis project.
 - 💞️ I’m looking to collaborate on ...\\Projects//
 - 📫 How to reach me ... my instagram: queenie.gg
